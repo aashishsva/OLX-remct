@@ -644,7 +644,7 @@ header, .categories-list, .ad1,.ad2, .container, .footer-section, .top-footer, .
     animation: fadeIn 1s ease-in-out;
 }
 
-.grid h2{
+.text-grid{
     animation: fadeIn 1s ease-in-out;
 }
 .load-more-button{
